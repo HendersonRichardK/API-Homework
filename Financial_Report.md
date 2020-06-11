@@ -17,7 +17,7 @@ Projected Gross Income | $7,389
 ### Spending Per Category:
 Harold is transferring quite a bit of money currently.  It is unclear how he accumulated these funds based upon his current annual income.
 
-![Expenses per category pie chart](Images/pie.png)
+![Expenses per category pie chart](Images/Pie.png)
 
 ### Number of Transactions Per Category:
 Harold enjoys eating out regularly.  This could be an area that he can make some cuts in spending moving forward.
