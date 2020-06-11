@@ -23,7 +23,7 @@ Harold is transferring quite a bit of money currently.  It is unclear how he acc
 Harold enjoys eating out regularly.  This could be an area that he can make some cuts in spending moving forward.
 
 
-![Number of transactions per category](Images/number_of_transactions_per_category.png)
+![Number of transactions per category](Images/Categories.png)
 
 ### Spending by Month:
 From the full months records available, Harold is spending roughly $10k per month.
