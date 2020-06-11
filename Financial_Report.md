@@ -3,8 +3,8 @@
 Provided is an analysis of Harold's spending habits and retirement plan. 
 
 ## Budget Analysis
-Harold's spending seems to far exceed his annual income.  He's currently spending roughly $10k a month versus a monthly income of only $500 a month.
-Harold needs to dramatically cut spending as well as get a second job.
+Harold's spending habit exceeds his income. Currently, Harold is spending $10k a month , with a monthly income of only $500.
+Harold is in desperate need of additional income.
 
 ### A summary of Harold's income:
 
@@ -15,31 +15,31 @@ Monthly Income | $500
 Projected Gross Income | $7,389
 -----------------------
 ### Spending Per Category:
-Harold is transferring quite a bit of money currently.  It is unclear how he accumulated these funds based upon his current annual income.
+Per category it is clear that Harold is transferring alot of money.  The data doesnt support how Harold acquired the funds based upon his current annual income.
 
 ![Expenses per category pie chart](Images/Pie.png)
 
 ### Number of Transactions Per Category:
-Harold enjoys eating out regularly.  This could be an area that he can make some cuts in spending moving forward.
+Outside of transfer and spending Harold does eating out regularly.  Cutting spending going out to eat could assist his current finanical perdicament.
 
 
 ![Number of transactions per category](Images/Categories.png)
 
 ### Spending by Month:
-From the full months records available, Harold is spending roughly $10k per month.
+Harold spends roughly 10k per month.
 
 ![Spending per month](Images/Month.png)
 
 ## Retirement Planning
-This is a Monte Carlo projection of cumulative returns of a portfolio with 60% allocated to SPY and 40% allocated to AGG over the course of 30 years.
+Provided below is the Monte Carlo projection of cumulative returns of a portfolio with 60% allocated to SPY and 40% allocated to AGG over the course of 30 years.
 
 ![Cumulative portfolio return trajectories](Images/Monte.png)
 
-This figure shows the distribution of ending returns for the proposed portfolio within a 90% confidence interval. This portfolio has a range of outcomes from the initial investment growing between 200% to 900%.
+Illustrated below the figure shows the distribution of ending returns for the proposed portfolio within a 90% confidence interval. This portfolio has a range of outcomes from the initial investment growing between 200% to 900%.
 
 ![Distribution od ending returns, 90% confidence interval](Images/Distribution.png)
 
-The chart below shows the different outcomes at the 10th, 50th, and 90th percentile.
+The chart below shows various outcomes at the 10th, 50th, and 90th percentile.
 
 Percentile | Cumulative Returns
 -----------|------------------
