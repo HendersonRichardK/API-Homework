@@ -28,7 +28,7 @@ Harold enjoys eating out regularly.  This could be an area that he can make some
 ### Spending by Month:
 From the full months records available, Harold is spending roughly $10k per month.
 
-![Spending per month](Images/spending_per_month.png)
+![Spending per month](Images/Month.png)
 
 ## Retirement Planning
 This is a Monte Carlo projection of cumulative returns of a portfolio with 60% allocated to SPY and 40% allocated to AGG over the course of 30 years.
