@@ -33,11 +33,11 @@ From the full months records available, Harold is spending roughly $10k per mont
 ## Retirement Planning
 This is a Monte Carlo projection of cumulative returns of a portfolio with 60% allocated to SPY and 40% allocated to AGG over the course of 30 years.
 
-![Cumulative portfolio return trajectories](Images/cumulative_portfolio_return_trajectories_30_years.png)
+![Cumulative portfolio return trajectories](Images/Monte.png)
 
 This figure shows the distribution of ending returns for the proposed portfolio within a 90% confidence interval. This portfolio has a range of outcomes from the initial investment growing between 200% to 900%.
 
-![Distribution od ending returns, 90% confidence interval](Images/distribution_ending_returns_90_confidence_interval.png)
+![Distribution od ending returns, 90% confidence interval](Images/Distribution.png)
 
 The chart below shows the different outcomes at the 10th, 50th, and 90th percentile.
 
